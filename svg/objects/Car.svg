@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="356.845" height="118.136" viewBox="0 0 356.845 118.136">
+  <defs>
+    <radialGradient id="radial-gradient-1" cx="50.679" cy="90.05" r="25.586" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#838383"/>
+      <stop offset="1" stop-color="#5b5b5c"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="281.169" cy="89.62" r="25.586" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#838383"/>
+      <stop offset="1" stop-color="#5b5b5c"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-1" x1="175.169" y1="0.391" x2="175.169" y2="99.725" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff0000"/>
+      <stop offset="1" stop-color="#a40000"/>
+    </linearGradient>
+  </defs>
+  <title>Car.ai</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <g id="Car">
+      <g id="Wheel_L" data-name="Wheel L">
+        <circle cx="50.679" cy="90.05" r="25.586" fill="url(#radial-gradient-1)" stroke="#000000" stroke-width="5" stroke-miterlimit="10"/>
+        <polyline points="50.894,66.614 50.464,91.555 33.263,108.326" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+        <line x1="50.464" y1="90.265" x2="66.804" y2="108.326" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+        <polyline points="75.405,84.675 50.464,90.695 25.522,84.675" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+      </g>
+      <g id="Wheel_R" data-name="Wheel R">
+        <circle cx="281.169" cy="89.62" r="25.586" fill="url(#radial-gradient-2)" stroke="#000000" stroke-width="5" stroke-miterlimit="10"/>
+        <polyline points="281.384,66.184 280.954,91.125 263.754,107.896" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+        <line x1="280.954" y1="89.835" x2="297.295" y2="107.896" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+        <polyline points="305.896,84.245 280.954,90.265 256.013,84.245" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+      </g>
+      <g id="Car_Body" data-name="Car Body">
+        <path id="Car_Body-2" data-name="Car Body" d="M1.871 99.725 L1.011 57.583 C1.011 57.583 24.102 42.78 52.208 35.751 C69.789 31.355 89.856 34.713 105.844 32.081 C121.273 29.541 135.147 7.469 159.731 4.147 C191.528 -0.15 223.783 0.164 256.88 0 C279.035 -0.11 295.6 25.695 313.085 26.476 C336.375 27.517 344.597 27.052 344.597 27.052 C344.597 27.052 360.685 65.63 354.379 85.757 C352.425 91.996 316.216 97.145 316.216 97.145 C316.216 97.145 311.364 81.724 301.944 72.286 C295.198 65.527 285.062 63.722 277.521 64.148 C274.963 64.292 270.722 64.809 266.598 66.283 C262.431 67.773 258.385 70.241 256.32 74.291 C251.28 84.173 254.129 100.654 247.847 100.706 C226.375 100.882 188.785 103.984 145.506 103.581 C127.106 103.41 103.802 104.719 86.583 101.458 C80.97 100.395 79.934 83.543 75.258 75.551 C69.389 65.52 60.012 64.003 53.923 63.408 C45.56 62.59 40.025 63.402 30.254 69.824 C28.73 70.825 24.619 75.355 23.034 82.638 C21.224 90.961 21.665 101.168 19.934 101.156 C7.838 101.071 1.871 99.725 1.871 99.725 Z" fill="url(#linear-gradient-1)" stroke="#000000" stroke-width="2" stroke-miterlimit="10"/>
+        <path id="Window_L" data-name="Window L" d="M113.246 41.243 C113.246 41.243 135.846 20.369 151.948 13.291 C168.051 6.213 193.23 7.701 193.23 7.701 L185.92 38.662 Z" fill="#000000" stroke="#000000" stroke-width="2" stroke-miterlimit="10"/>
+        <path id="Window_R" data-name="Window R" d="M195.81 38.662 L207.421 6.841 C207.421 6.841 235.126 4.116 258.593 14.151 C282.06 24.186 271.494 37.802 271.494 37.802 Z" fill="#000000" stroke="#000000" stroke-width="2" stroke-miterlimit="10"/>
+        <path d="M277.514 38.662 L267.856 65.863 L260.577 69.397 L256.32 74.291 L249.724 100.034 L188.5 102.591 C188.5 102.591 188.564 74.794 189.389 63.807 C190.133 53.9 192.8 39.522 192.8 39.522 Z" fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10"/>
+        <path d="M188.5 102.591 L103.457 103.324 C103.457 103.324 101.012 67.757 102.276 56.841 C103.192 48.928 110.731 42.245 110.731 42.245 L192.8 39.522" fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10"/>
+        <g id="Handle">
+          <ellipse cx="172.159" cy="55.003" rx="13.761" ry="3.44" fill="#b70000"/>
+          <line x1="185.49" y1="55.003" x2="158.829" y2="55.003" fill="none" stroke="#ab0000" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10"/>
+        </g>
+        <g id="Handle-2" data-name="Handle">
+          <ellipse cx="249.563" cy="54.143" rx="13.761" ry="3.44" fill="#b70000"/>
+          <line x1="262.894" y1="54.143" x2="236.232" y2="54.143" fill="none" stroke="#ab0000" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10"/>
+        </g>
+        <polygon points="1.441,72.204 1.441,58.013 29.823,58.873" fill="#ffffff"/>
+        <rect x="1.011" y="61.453" width="5.16" height="5.591" fill="#000000"/>
+        <path d="M329.977 42.963 C329.977 42.963 332.553 39.398 334.302 38.729 C337.001 37.697 344.597 37.372 344.597 37.372 L345.457 54.143 C345.457 54.143 339.471 52.902 336.992 51.111 C334.325 49.185 329.977 42.963 329.977 42.963 Z" fill="#911101"/>
+      </g>
+    </g>
+  </g>
+</svg>

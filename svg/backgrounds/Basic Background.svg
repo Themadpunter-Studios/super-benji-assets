@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="360" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="New_Gradient_Swatch_3" x1="332.413" y1="-9.293" x2="332.413" y2="369.293" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0055ff"/>
+      <stop offset="1" stop-color="#0debff"/>
+    </linearGradient>
+  </defs>
+  <title>Basic Background.ai</title>
+  <g id="Background">
+    <rect id="Sky" x="-78.932" y="-9.293" width="822.689" height="378.586" fill="url(#New_Gradient_Swatch_3)" stroke="#000000" stroke-miterlimit="10"/>
+    <rect id="Ground_2" data-name="Ground 2" x="-113.475" y="180" width="865.84" height="105.641" fill="#009245"/>
+    <g id="Ground_1" data-name="Ground 1">
+      <rect x="-180.671" y="238.02" width="972.1" height="125.603" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    </g>
+  </g>
+</svg>
