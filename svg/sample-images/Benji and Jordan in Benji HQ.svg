@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="360" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="317.337" y1="-9.071" x2="317.337" y2="373.735" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8d8d8"/>
+      <stop offset="1" stop-color="#aaaaaa"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="149.8" y1="98.011" x2="149.8" y2="140.893" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd256"/>
+      <stop offset="1" stop-color="#bc9b40"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="149.679" y1="96.79" x2="149.679" y2="117.082" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9ff00"/>
+      <stop offset="1" stop-color="#adb000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="316.486" y1="97.783" x2="316.486" y2="140.666" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd256"/>
+      <stop offset="1" stop-color="#bc9b40"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="316.365" y1="96.562" x2="316.365" y2="116.854" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9ff00"/>
+      <stop offset="1" stop-color="#adb000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="483.172" y1="97.783" x2="483.172" y2="140.666" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd256"/>
+      <stop offset="1" stop-color="#bc9b40"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="483.051" y1="96.562" x2="483.051" y2="116.854" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9ff00"/>
+      <stop offset="1" stop-color="#adb000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="406.909" y1="172.065" x2="406.909" y2="243.967" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0027b5"/>
+      <stop offset="1" stop-color="#00186d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="386.055" y1="270.885" x2="386.055" y2="284.652" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0027b5"/>
+      <stop offset="1" stop-color="#00186d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="405.894" y1="270.885" x2="405.894" y2="284.652" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0027b5"/>
+      <stop offset="1" stop-color="#00186d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-11" x1="404.808" y1="165.832" x2="404.808" y2="172.461" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd256"/>
+      <stop offset="1" stop-color="#bc9b40"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-12" x1="405.209" y1="130.63" x2="405.209" y2="169.607" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd256"/>
+      <stop offset="1" stop-color="#bc9b40"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-13" x1="405.319" y1="129.52" x2="405.319" y2="147.964" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9ff00"/>
+      <stop offset="1" stop-color="#adb000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-14" x1="404.977" y1="171.542" x2="404.977" y2="219.792" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c00000"/>
+      <stop offset="1" stop-color="#8c0000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-15" x1="423.472" y1="171.572" x2="423.472" y2="221.342" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c00000"/>
+      <stop offset="1" stop-color="#6f0000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-16" x1="386.908" y1="171.464" x2="386.908" y2="221.234" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c00000"/>
+      <stop offset="1" stop-color="#6f0000"/>
+    </linearGradient>
+    <linearGradient id="New_Gradient_Swatch_1" x1="229.627" y1="167.633" x2="229.627" y2="239.908" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#800000"/>
+      <stop offset="1" stop-color="#400000"/>
+    </linearGradient>
+    <linearGradient id="New_Gradient_Swatch_1-2" x1="250.589" y1="266.965" x2="250.589" y2="280.804" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#800000"/>
+      <stop offset="1" stop-color="#400000"/>
+    </linearGradient>
+    <linearGradient id="New_Gradient_Swatch_1-3" x1="230.647" y1="266.965" x2="230.647" y2="280.804" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#800000"/>
+      <stop offset="1" stop-color="#400000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-17" x1="231.739" y1="161.368" x2="231.739" y2="168.031" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd256"/>
+      <stop offset="1" stop-color="#bc9b40"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-18" x1="231.335" y1="125.983" x2="231.335" y2="165.163" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd256"/>
+      <stop offset="1" stop-color="#bc9b40"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-19" x1="234.963" y1="111.759" x2="234.963" y2="144.032" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="1" stop-color="#1b1b1b"/>
+    </linearGradient>
+    <linearGradient id="New_Gradient_Swatch_1-4" x1="231.569" y1="167.108" x2="231.569" y2="215.608" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#800000"/>
+      <stop offset="1" stop-color="#400000"/>
+    </linearGradient>
+    <linearGradient id="New_Gradient_Swatch_2" x1="212.109" y1="167.138" x2="212.109" y2="217.166" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#800000"/>
+      <stop offset="1" stop-color="#250000"/>
+    </linearGradient>
+    <linearGradient id="New_Gradient_Swatch_2-2" x1="250.601" y1="167.029" x2="250.601" y2="217.057" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#800000"/>
+      <stop offset="1" stop-color="#250000"/>
+    </linearGradient>
+  </defs>
+  <title>Benji and Jordan in Benji HQ.ai</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <rect id="Back_Wall" data-name="Back Wall" x="-7.101" y="-4.632" width="654.202" height="369.264" fill="url(#linear-gradient-1)"/>
+    <rect id="Floor" x="-2.663" y="249.543" width="645.77" height="115.089" fill="#cccccc"/>
+    <g id="Benji_Pictures" data-name="Benji Pictures">
+      <g id="Benji_Face_Picture" data-name="Benji Face Picture">
+        <text transform="matrix(0.797 0 0 0.797 109.153 167.271)" x="50.596" y="12" xml:space="preserve" font-family="&apos;Source Sans 3&apos;, sans-serif" font-size="12" fill="#000000" text-anchor="middle"><tspan x="50.596" y="12">Serious Benji</tspan></text>
+        <rect id="Benji_Face_Picture-2" data-name="Benji Face Picture" x="106.678" y="76.051" width="86.447" height="86.447" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+        <g id="Face">
+          <path id="Right_Ear" data-name="Right Ear" d="M176.872 122.366 C176.872 126.475 170.361 130.348 167.597 130.348 C164.832 130.348 166.862 126.475 166.862 122.366 C166.862 118.257 169.103 114.926 171.867 114.926 C173.912 114.926 175.957 114.749 176.734 117.362 C177.007 118.281 176.872 121.298 176.872 122.366 Z" fill="#f3c853"/>
+          <path id="Left_Ear" data-name="Left Ear" d="M122.931 121.624 C122.931 120.555 122.796 117.538 123.069 116.62 C123.846 114.006 125.89 114.183 127.936 114.183 C130.7 114.183 132.941 117.515 132.941 121.624 C132.941 125.733 135.542 129.748 132.778 129.748 C130.014 129.748 122.931 125.733 122.931 121.624 Z" fill="#f3c853"/>
+          <path id="Face-2" data-name="Face" d="M128.358 119.452 C128.358 107.61 137.958 98.011 149.8 98.011 C161.641 98.011 171.241 107.61 171.241 119.452 C171.241 125.14 168.793 129.833 165.179 134.075 C160.45 138.337 150.127 141.759 150.127 141.759 C150.127 141.759 139.71 138.226 134.484 134.537 C130.943 130.314 128.358 125.075 128.358 119.452 Z" fill="url(#linear-gradient-2)"/>
+          <g id="Left_Eye" data-name="Left Eye">
+            <ellipse id="Outer_White" data-name="Outer White" cx="144.797" cy="116.187" rx="5.003" ry="8.076" fill="#ffffff"/>
+            <ellipse id="Color" cx="145.713" cy="116.472" rx="2.986" ry="6.227" fill="#0006ff"/>
+            <ellipse id="Black" cx="146.551" cy="116.545" rx="1.784" ry="4.115" fill="#000000"/>
+            <circle id="Inner_White" data-name="Inner White" cx="146.514" cy="114.542" r="0.742" fill="#ffffff"/>
+          </g>
+          <g id="Right_Eye" data-name="Right Eye">
+            <ellipse id="Outer_White-2" data-name="Outer White" cx="155.341" cy="116.171" rx="5.003" ry="8.076" fill="#ffffff"/>
+            <ellipse id="Color-2" data-name="Color" cx="156.258" cy="116.456" rx="2.986" ry="6.227" fill="#0006ff"/>
+            <ellipse id="Black-2" data-name="Black" cx="157.095" cy="116.529" rx="1.784" ry="4.115" fill="#000000"/>
+            <circle id="Inner_White-2" data-name="Inner White" cx="157.059" cy="114.526" r="0.742" fill="#ffffff"/>
+          </g>
+          <ellipse id="Mouth_Open" data-name="Mouth Open" cx="141.202" cy="130.807" rx="5.641" ry="4.802" fill="none" stroke="#000000" stroke-miterlimit="10" display="none"/>
+          <line id="Mouth" x1="139.907" y1="132.893" x2="159.914" y2="132.893" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+          <path id="Hair" d="M129.192 114.592 L129.156 114.378 C129.04 114.41 128.9 114.412 128.732 114.363 C128.019 114.155 128.227 113.443 128.227 113.443 C128.563 112.299 128.502 110.777 129.139 109.748 C130.535 107.498 132.089 105.658 134.209 104.04 C135.32 103.192 136.025 101.935 137.197 101.217 C137.864 100.579 138.531 100.5 139.264 99.988 C140.607 99.048 141.627 98.141 143.304 97.736 C145.627 97.174 147.697 96.975 150.057 96.805 C151.677 96.689 153.46 97.276 155.084 97.514 C158.65 98.133 162.151 99.933 164.551 102.667 C166.141 104.48 167.229 106.624 168.952 108.337 C170.44 109.885 170.46 111.769 170.754 113.757 C170.838 114.327 171.186 114.862 171.157 115.437 C171.083 116.923 170.782 117.251 169.265 117.01 C168.81 116.938 167.77 116.012 167.483 115.753 C165.26 113.739 166.401 111.173 164.961 108.856 C163.659 108.24 162.366 108.705 161.092 108.142 C159.689 107.523 158.68 105.697 157.107 105.477 C154.903 105.168 153.427 106.479 151.48 107.049 C150.484 107.34 149.57 107.088 148.583 106.918 C147.516 106.734 146.413 106.318 145.312 106.496 C143.889 106.727 142.908 107.858 141.463 107.969 C139.944 108.086 137.699 107.013 136.238 107.842 C134.886 108.609 134.403 110.246 133.922 111.606 C132.713 113.069 131.423 114.129 129.579 114.572 C129.392 114.665 129.204 114.664 129.204 114.664 L129.202 114.652 C129.198 114.653 129.195 114.653 129.191 114.654 Z" fill="url(#linear-gradient-3)"/>
+          <polyline id="Nose" points="150.156,119.64 153.652,127.798 150.083,127.798" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+          <path id="Left_Eyebrow" data-name="Left Eyebrow" d="M138.938 106.96 C138.938 106.96 142.145 105.977 143.635 105.892 C145.197 105.802 148.105 106.436 148.105 106.436" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+          <path id="Right_Eyebrow" data-name="Right Eyebrow" d="M151.32 106.96 C151.32 106.96 154.526 105.977 156.016 105.892 C157.578 105.802 160.487 106.436 160.487 106.436" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+        </g>
+      </g>
+      <g id="Benji_Face_Picture-3" data-name="Benji Face Picture">
+        <text transform="matrix(0.797 0 0 0.797 275.839 167.044)" x="50.596" y="12" xml:space="preserve" font-family="&apos;Source Sans 3&apos;, sans-serif" font-size="12" fill="#000000" text-anchor="middle"><tspan x="50.596" y="12">Skeptical Benji</tspan></text>
+        <rect id="Benji_Face_Picture-4" data-name="Benji Face Picture" x="273.364" y="75.823" width="86.448" height="86.448" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+        <g id="Face-3" data-name="Face">
+          <path id="Right_Ear-2" data-name="Right Ear" d="M343.558 122.139 C343.558 126.248 337.047 130.12 334.283 130.12 C331.519 130.12 333.548 126.248 333.548 122.139 C333.548 118.029 335.789 114.698 338.553 114.698 C340.599 114.698 342.644 114.521 343.42 117.134 C343.693 118.053 343.558 121.07 343.558 122.139 Z" fill="#f3c853"/>
+          <path id="Left_Ear-2" data-name="Left Ear" d="M289.617 121.396 C289.617 120.327 289.483 117.31 289.755 116.392 C290.532 113.778 292.577 113.956 294.622 113.956 C297.386 113.956 299.627 117.287 299.627 121.396 C299.627 125.505 302.228 129.52 299.464 129.52 C296.7 129.52 289.617 125.505 289.617 121.396 Z" fill="#f3c853"/>
+          <path id="Face-4" data-name="Face" d="M295.045 119.224 C295.045 107.383 304.644 97.783 316.486 97.783 C328.328 97.783 337.927 107.383 337.927 119.224 C337.927 124.912 335.479 129.605 331.865 133.847 C327.136 138.109 316.813 141.531 316.813 141.531 C316.813 141.531 306.397 137.998 301.171 134.309 C297.63 130.087 295.045 124.847 295.045 119.224 Z" fill="url(#linear-gradient-4)"/>
+          <g id="Left_Eye-2" data-name="Left Eye">
+            <ellipse id="Outer_White-3" data-name="Outer White" cx="311.483" cy="115.96" rx="5.003" ry="8.076" fill="#ffffff"/>
+            <ellipse id="Color-3" data-name="Color" cx="312.399" cy="116.244" rx="2.986" ry="6.227" fill="#0006ff"/>
+            <ellipse id="Black-3" data-name="Black" cx="313.237" cy="116.317" rx="1.784" ry="4.115" fill="#000000"/>
+            <circle id="Inner_White-3" data-name="Inner White" cx="313.201" cy="114.314" r="0.742" fill="#ffffff"/>
+          </g>
+          <g id="Right_Eye-2" data-name="Right Eye">
+            <ellipse id="Outer_White-4" data-name="Outer White" cx="322.027" cy="115.943" rx="5.003" ry="8.076" fill="#ffffff"/>
+            <ellipse id="Color-4" data-name="Color" cx="322.944" cy="116.228" rx="2.986" ry="6.227" fill="#0006ff"/>
+            <ellipse id="Black-4" data-name="Black" cx="323.782" cy="116.301" rx="1.784" ry="4.115" fill="#000000"/>
+            <circle id="Inner_White-4" data-name="Inner White" cx="323.745" cy="114.298" r="0.742" fill="#ffffff"/>
+          </g>
+          <ellipse id="Mouth_Open-2" data-name="Mouth Open" cx="307.888" cy="130.579" rx="5.641" ry="4.802" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+          <line id="Mouth-2" data-name="Mouth" x1="306.593" y1="132.666" x2="326.6" y2="132.666" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10" display="none"/>
+          <path id="Hair-2" data-name="Hair" d="M295.878 114.364 L295.842 114.15 C295.726 114.182 295.586 114.184 295.418 114.135 C294.706 113.928 294.913 113.216 294.913 113.216 C295.249 112.071 295.188 110.549 295.826 109.521 C297.221 107.27 298.775 105.43 300.895 103.812 C302.006 102.964 302.712 101.707 303.883 100.99 C304.55 100.352 305.217 100.272 305.95 99.76 C307.293 98.821 308.314 97.914 309.99 97.508 C312.314 96.946 314.384 96.747 316.743 96.578 C318.364 96.461 320.146 97.049 321.77 97.287 C325.336 97.905 328.838 99.705 331.237 102.44 C332.828 104.253 333.915 106.396 335.639 108.109 C337.126 109.657 337.146 111.542 337.44 113.53 C337.525 114.099 337.872 114.634 337.843 115.209 C337.769 116.695 337.469 117.023 335.952 116.783 C335.497 116.71 334.456 115.784 334.17 115.525 C331.947 113.511 333.087 110.945 331.647 108.628 C330.346 108.013 329.053 108.477 327.778 107.915 C326.375 107.295 325.367 105.469 323.794 105.249 C321.589 104.94 320.114 106.252 318.167 106.821 C317.17 107.112 316.256 106.86 315.269 106.69 C314.203 106.506 313.1 106.09 311.999 106.268 C310.575 106.499 309.594 107.631 308.149 107.742 C306.63 107.858 304.385 106.785 302.924 107.614 C301.572 108.381 301.089 110.019 300.609 111.378 C299.399 112.841 298.109 113.901 296.266 114.344 C296.078 114.438 295.89 114.437 295.89 114.437 L295.888 114.424 C295.885 114.425 295.881 114.426 295.877 114.426 Z" fill="url(#linear-gradient-5)"/>
+          <polyline id="Nose-2" data-name="Nose" points="316.842,119.413 320.338,127.57 316.769,127.57" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+          <path id="Left_Eyebrow-2" data-name="Left Eyebrow" d="M305.625 106.732 C305.625 106.732 308.831 105.749 310.321 105.664 C311.883 105.575 314.792 106.208 314.792 106.208" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+          <path id="Right_Eyebrow-2" data-name="Right Eyebrow" d="M318.361 103.78 C318.361 103.78 321.567 102.797 323.057 102.712 C324.619 102.623 327.527 103.256 327.527 103.256" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+        </g>
+      </g>
+      <g id="Benji_Face_Picture-5" data-name="Benji Face Picture">
+        <text transform="matrix(0.797 0 0 0.797 442.525 167.044)" x="50.596" y="12" xml:space="preserve" font-family="&apos;Source Sans 3&apos;, sans-serif" font-size="12" fill="#000000" text-anchor="middle"><tspan x="50.596" y="12">Disappointed Benji</tspan></text>
+        <rect id="Benji_Face_Picture-6" data-name="Benji Face Picture" x="440.05" y="75.823" width="86.448" height="86.448" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+        <g id="Face-5" data-name="Face">
+          <path id="Right_Ear-3" data-name="Right Ear" d="M510.245 122.139 C510.245 126.248 503.734 130.12 500.969 130.12 C498.205 130.12 500.234 126.248 500.234 122.139 C500.234 118.029 502.475 114.698 505.24 114.698 C507.285 114.698 509.33 114.521 510.106 117.134 C510.379 118.053 510.245 121.07 510.245 122.139 Z" fill="#f3c853"/>
+          <path id="Left_Ear-3" data-name="Left Ear" d="M456.303 121.396 C456.303 120.327 456.169 117.31 456.442 116.392 C457.218 113.778 459.263 113.956 461.308 113.956 C464.073 113.956 466.314 117.287 466.314 121.396 C466.314 125.505 468.915 129.52 466.15 129.52 C463.386 129.52 456.303 125.505 456.303 121.396 Z" fill="#f3c853"/>
+          <path id="Face-6" data-name="Face" d="M461.731 119.224 C461.731 107.383 471.33 97.783 483.172 97.783 C495.014 97.783 504.613 107.383 504.613 119.224 C504.613 124.912 502.165 129.605 498.551 133.847 C493.823 138.109 483.5 141.531 483.5 141.531 C483.5 141.531 473.083 137.998 467.857 134.309 C464.316 130.087 461.731 124.847 461.731 119.224 Z" fill="url(#linear-gradient-6)"/>
+          <g id="Left_Eye-3" data-name="Left Eye">
+            <ellipse id="Outer_White-5" data-name="Outer White" cx="478.169" cy="115.96" rx="5.003" ry="8.076" fill="#ffffff"/>
+            <ellipse id="Color-5" data-name="Color" cx="479.086" cy="116.244" rx="2.986" ry="6.227" fill="#0006ff"/>
+            <ellipse id="Black-5" data-name="Black" cx="479.923" cy="116.317" rx="1.784" ry="4.115" fill="#000000"/>
+            <circle id="Inner_White-5" data-name="Inner White" cx="479.887" cy="114.314" r="0.742" fill="#ffffff"/>
+          </g>
+          <g id="Right_Eye-3" data-name="Right Eye">
+            <ellipse id="Outer_White-6" data-name="Outer White" cx="488.714" cy="115.943" rx="5.003" ry="8.076" fill="#ffffff"/>
+            <ellipse id="Color-6" data-name="Color" cx="489.63" cy="116.228" rx="2.986" ry="6.227" fill="#0006ff"/>
+            <ellipse id="Black-6" data-name="Black" cx="490.468" cy="116.301" rx="1.784" ry="4.115" fill="#000000"/>
+            <circle id="Inner_White-6" data-name="Inner White" cx="490.431" cy="114.298" r="0.742" fill="#ffffff"/>
+          </g>
+          <ellipse id="Mouth_Open-3" data-name="Mouth Open" cx="474.574" cy="130.579" rx="5.641" ry="4.802" fill="none" stroke="#000000" stroke-miterlimit="10" display="none"/>
+          <path id="Mouth-3" data-name="Mouth" d="M473.166 135.381 C473.166 135.381 476.894 132.893 483.908 132.666 C489.278 132.491 492.252 135.381 492.252 135.381" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+          <path id="Hair-3" data-name="Hair" d="M462.564 114.364 L462.528 114.15 C462.412 114.182 462.272 114.184 462.104 114.135 C461.392 113.928 461.6 113.216 461.6 113.216 C461.935 112.071 461.874 110.549 462.512 109.521 C463.908 107.27 465.461 105.43 467.582 103.812 C468.693 102.964 469.398 101.707 470.569 100.99 C471.237 100.352 471.904 100.272 472.636 99.76 C473.98 98.821 475 97.914 476.677 97.508 C479 96.946 481.07 96.747 483.429 96.578 C485.05 96.461 486.832 97.049 488.457 97.287 C492.022 97.905 495.524 99.705 497.923 102.44 C499.514 104.253 500.602 106.396 502.325 108.109 C503.812 109.657 503.832 111.542 504.127 113.53 C504.211 114.099 504.558 114.634 504.53 115.209 C504.456 116.695 504.155 117.023 502.638 116.783 C502.183 116.71 501.142 115.784 500.856 115.525 C498.633 113.511 499.774 110.945 498.334 108.628 C497.032 108.013 495.739 108.477 494.464 107.915 C493.061 107.295 492.053 105.469 490.48 105.249 C488.276 104.94 486.8 106.252 484.853 106.821 C483.856 107.112 482.942 106.86 481.956 106.69 C480.889 106.506 479.786 106.09 478.685 106.268 C477.261 106.499 476.28 107.631 474.836 107.742 C473.316 107.858 471.071 106.785 469.61 107.614 C468.259 108.381 467.776 110.019 467.295 111.378 C466.085 112.841 464.796 113.901 462.952 114.344 C462.765 114.438 462.577 114.437 462.577 114.437 L462.575 114.424 C462.571 114.425 462.567 114.426 462.563 114.426 Z" fill="url(#linear-gradient-7)"/>
+          <polyline id="Nose-3" data-name="Nose" points="483.529,119.413 487.025,127.57 483.456,127.57" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+          <path id="Left_Eyebrow-3" data-name="Left Eyebrow" d="M472.311 106.732 C472.311 106.732 475.517 105.749 477.008 105.664 C478.569 105.575 481.478 106.208 481.478 106.208" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+          <path id="Right_Eyebrow-3" data-name="Right Eyebrow" d="M484.692 106.732 C484.692 106.732 487.898 105.749 489.389 105.664 C490.951 105.575 493.859 106.208 493.859 106.208" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+        </g>
+      </g>
+    </g>
+    <g id="Benji">
+      <path id="Cape" d="M423.168 172.298 C419.906 172.198 398.503 171.697 389.407 172.571 C386.464 172.853 385.316 177.591 385.316 177.591 L381.173 243.468 L397.133 228.158 L407.483 243.967 L420.391 230.069 L432.645 242.627 L428.297 178.057 C428.297 178.057 424.389 172.336 423.168 172.298 Z" fill="url(#linear-gradient-8)"/>
+      <g id="Right_Leg" data-name="Right Leg">
+        <ellipse id="Shoe" cx="386.055" cy="277.769" rx="13.497" ry="6.884" fill="url(#linear-gradient-9)"/>
+        <path id="Leg" d="M388.554 271.671 C390.778 272.478 399.12 275.615 399.12 275.615 C399.12 275.615 399.781 267.042 399.781 266.343 C399.781 265.01 401.307 260.439 401.599 254.961 C402.331 241.21 400.839 219.947 400.839 219.947 L388.619 219.418 C388.619 219.418 387.402 271.253 388.554 271.671 Z" fill="#000000"/>
+      </g>
+      <g id="Left_Leg" data-name="Left Leg">
+        <ellipse id="Shoe-2" data-name="Shoe" cx="405.894" cy="277.769" rx="13.497" ry="6.884" fill="url(#linear-gradient-10)"/>
+        <path id="Leg-2" data-name="Leg" d="M408.393 271.671 C410.616 272.478 418.958 275.615 418.958 275.615 C418.958 275.615 419.62 267.042 419.62 266.343 C419.62 265.01 421.146 260.439 421.438 254.961 C422.17 241.21 420.678 219.947 420.678 219.947 L408.457 219.418 C408.457 219.418 407.241 271.253 408.393 271.671 Z" fill="#000000"/>
+      </g>
+      <rect id="Pants_Top" data-name="Pants Top" x="389.425" y="219.671" width="29.356" height="14.847" fill="#000000"/>
+      <path id="Neck" d="M412.535 171.044 C412.535 170.605 412.112 170.067 411.684 169.509 C411.557 169.342 413.832 167.051 413.677 166.883 C412.337 165.432 407.605 166.136 405.154 166.136 C401.981 166.136 396.612 165.213 395.935 166.583 C395.826 166.804 398.481 168.98 398.481 169.216 C398.481 169.444 396.707 171.376 396.808 171.589 C397.466 172.972 401.962 172.296 405.154 172.296 C408.839 172.296 412.535 172.745 412.535 171.044 Z" fill="url(#linear-gradient-11)"/>
+      <g id="Face-7" data-name="Face">
+        <path id="Right_Ear-4" data-name="Right Ear" d="M380.602 152.767 C380.602 156.502 386.52 160.022 389.033 160.022 C391.545 160.022 389.701 156.502 389.701 152.767 C389.701 149.032 387.664 146.005 385.152 146.005 C383.292 146.005 381.434 145.843 380.728 148.219 C380.48 149.054 380.602 151.796 380.602 152.767 Z" fill="#f3c853"/>
+        <path id="Left_Ear-4" data-name="Left Ear" d="M429.632 152.092 C429.632 151.121 429.754 148.379 429.506 147.544 C428.8 145.168 426.941 145.33 425.082 145.33 C422.57 145.33 420.533 148.357 420.533 152.092 C420.533 155.827 418.169 159.477 420.681 159.477 C423.194 159.477 429.632 155.827 429.632 152.092 Z" fill="#f3c853"/>
+        <path id="Face-8" data-name="Face" d="M424.698 150.118 C424.698 139.355 415.973 130.63 405.209 130.63 C394.446 130.63 385.721 139.355 385.721 150.118 C385.721 155.288 387.946 159.554 391.231 163.409 C395.529 167.283 404.912 170.394 404.912 170.394 C404.912 170.394 414.38 167.182 419.13 163.83 C422.348 159.992 424.698 155.229 424.698 150.118 Z" fill="url(#linear-gradient-12)"/>
+        <g id="Left_Eye-4" data-name="Left Eye">
+          <ellipse id="Outer_White-7" data-name="Outer White" cx="409.757" cy="147.151" rx="4.547" ry="7.341" fill="#ffffff"/>
+          <ellipse id="Color-7" data-name="Color" cx="408.924" cy="147.41" rx="2.714" ry="5.66" fill="#0006ff"/>
+          <ellipse id="Black-7" data-name="Black" cx="408.162" cy="147.476" rx="1.622" ry="3.74" fill="#000000"/>
+          <circle id="Inner_White-7" data-name="Inner White" cx="408.195" cy="145.655" r="0.675" fill="#ffffff"/>
+        </g>
+        <g id="Right_Eye-4" data-name="Right Eye">
+          <ellipse id="Outer_White-8" data-name="Outer White" cx="400.173" cy="147.136" rx="4.547" ry="7.341" fill="#ffffff"/>
+          <ellipse id="Color-8" data-name="Color" cx="399.339" cy="147.395" rx="2.714" ry="5.66" fill="#0006ff"/>
+          <ellipse id="Black-8" data-name="Black" cx="398.578" cy="147.461" rx="1.622" ry="3.74" fill="#000000"/>
+          <circle id="Inner_White-8" data-name="Inner White" cx="398.611" cy="145.641" r="0.675" fill="#ffffff"/>
+        </g>
+        <ellipse id="Mouth_Open-4" data-name="Mouth Open" cx="413.024" cy="160.439" rx="5.127" ry="4.364" fill="none" stroke="#000000" stroke-miterlimit="10" display="none"/>
+        <line id="Mouth-4" data-name="Mouth" x1="414.201" y1="162.336" x2="396.016" y2="162.336" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+        <path id="Hair-4" data-name="Hair" d="M423.941 145.701 L423.973 145.506 C424.079 145.535 424.206 145.537 424.359 145.493 C425.006 145.304 424.818 144.657 424.818 144.657 C424.512 143.617 424.568 142.233 423.988 141.298 C422.72 139.253 421.307 137.58 419.38 136.109 C418.37 135.339 417.729 134.197 416.664 133.544 C416.058 132.964 415.452 132.892 414.786 132.426 C413.565 131.573 412.637 130.748 411.114 130.38 C409.002 129.869 407.12 129.688 404.976 129.534 C403.503 129.428 401.883 129.962 400.406 130.178 C397.165 130.74 393.982 132.377 391.802 134.862 C390.356 136.51 389.367 138.458 387.801 140.015 C386.449 141.422 386.431 143.135 386.163 144.942 C386.087 145.46 385.771 145.946 385.797 146.469 C385.864 147.82 386.138 148.117 387.516 147.899 C387.93 147.833 388.876 146.992 389.136 146.756 C391.157 144.925 390.12 142.593 391.428 140.487 C392.612 139.928 393.787 140.35 394.946 139.839 C396.221 139.275 397.137 137.616 398.567 137.416 C400.571 137.135 401.912 138.327 403.682 138.844 C404.587 139.109 405.418 138.88 406.315 138.726 C407.285 138.558 408.287 138.18 409.288 138.342 C410.582 138.552 411.474 139.58 412.787 139.681 C414.168 139.787 416.208 138.812 417.536 139.565 C418.765 140.263 419.204 141.751 419.641 142.986 C420.74 144.317 421.913 145.28 423.588 145.682 C423.759 145.768 423.929 145.767 423.929 145.767 L423.931 145.756 C423.935 145.756 423.938 145.757 423.941 145.757 Z" fill="url(#linear-gradient-13)"/>
+        <polyline id="Nose-4" data-name="Nose" points="404.885,150.289 401.708,157.704 404.952,157.704" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+        <path id="Left_Eyebrow-4" data-name="Left Eyebrow" d="M415.082 138.764 C415.082 138.764 412.167 137.87 410.813 137.793 C409.393 137.712 406.749 138.288 406.749 138.288" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+        <path id="Right_Eyebrow-4" data-name="Right Eyebrow" d="M403.828 138.764 C403.828 138.764 400.914 137.87 399.559 137.793 C398.139 137.712 395.496 138.288 395.496 138.288" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+      </g>
+      <rect id="Shirt" x="390.519" y="171.542" width="28.916" height="48.25" fill="url(#linear-gradient-14)"/>
+      <g id="Left_Arm" data-name="Left Arm">
+        <g id="Hand">
+          <path id="Hand-2" data-name="Hand" d="M418.329 223.347 C418.329 226.555 420.929 229.155 424.137 229.155 C426.716 229.155 428.805 228.377 429.414 226.096 C429.563 225.539 429.356 224.153 429.356 223.524 C429.356 222.875 429.073 222.133 428.876 221.551 C428.102 219.253 426.696 217.538 424.137 217.538 C421.69 217.538 420.303 219.288 419.448 221.43 C419.182 222.096 418.329 222.586 418.329 223.347 Z" fill="#ffd256"/>
+          <path id="Finger" d="M417.572 222.887 C415.96 222.911 414.662 223.643 414.673 224.523 C414.683 225.402 415.342 227.326 416.954 227.302 C417.426 227.295 418.434 226.932 419.043 226.167 C420.513 224.321 421.638 220.929 421.631 220.307 C421.623 219.721 420.657 220.108 419.457 221.068 C418.856 221.548 418.11 222.879 417.572 222.887 Z" fill="#ffd256"/>
+          <ellipse id="Finger-2" data-name="Finger" cx="420.658" cy="226.649" rx="1.917" ry="4.393" fill="#ffd256"/>
+          <ellipse id="Finger-3" data-name="Finger" cx="424.124" cy="228.051" rx="1.917" ry="4.393" fill="#ffd256"/>
+          <path id="Divider" d="M419.55 224.217 L419.442 224.507 C419.222 225.092 419.022 225.579 418.477 225.915 C418.477 225.915 418.224 226.073 418.382 226.325 C418.54 226.577 418.792 226.42 418.792 226.42 C419.453 226.002 419.73 225.431 419.999 224.716 L420.107 224.426 C420.107 224.426 420.253 223.163 419.974 223.058 C419.696 222.954 419.55 224.217 419.55 224.217 Z" fill="#000000"/>
+          <path id="Finger-4" data-name="Finger" d="M425.673 227.448 C425.673 229.191 426.532 230.603 427.59 230.603 C428.648 230.603 429.506 229.191 429.506 227.448 C429.506 227.067 429.547 226.25 429.472 225.912 C429.203 224.704 428.417 224.294 427.59 224.294 C426.531 224.294 425.673 225.706 425.673 227.448 Z" fill="#ffd256"/>
+          <path id="Divider-2" data-name="Divider" d="M422.366 224.343 L422.403 224.433 C422.213 225.953 422.031 227.467 422.031 228.996 C422.031 228.996 422.031 229.296 422.369 229.296 C422.706 229.296 422.706 228.996 422.706 228.996 C422.706 227.489 422.887 225.998 423.074 224.5 L423.028 224.225 C423.028 224.225 422.962 223.931 422.631 223.989 C422.3 224.048 422.366 224.343 422.366 224.343 Z" fill="#000000"/>
+          <path id="Divider-3" data-name="Divider" d="M425.684 224.573 L425.686 224.613 C425.501 226.126 425.602 227.714 425.602 229.24 C425.602 229.24 425.602 229.542 425.939 229.542 C426.277 229.542 426.277 229.24 426.277 229.24 C426.277 227.737 426.17 226.169 426.357 224.68 L426.359 224.573 C426.359 224.573 426.359 224.271 426.021 224.271 C425.684 224.271 425.684 224.573 425.684 224.573 Z" fill="#000000"/>
+        </g>
+        <path id="Arm" d="M429.144 221.342 C429.144 221.342 428.503 215.702 428.848 208.842 C429.07 204.422 430.335 199.687 430.335 194.994 C430.335 189.355 429.144 184.247 429.144 181.42 C429.144 177.033 425.783 173.459 425.783 173.459 C425.783 173.459 423.253 171.572 422.068 171.572 C420.981 171.572 418.943 171.572 418.943 171.572 C418.943 171.572 418.943 175.771 418.943 181.576 C418.943 185.765 418.316 190.085 418.34 194.78 C418.37 200.387 418.943 205.819 418.943 208.845 C418.943 213.947 418.943 221.342 418.943 221.342 Z" fill="url(#linear-gradient-15)"/>
+      </g>
+      <g id="Right_Arm" data-name="Right Arm">
+        <g id="Hand-3" data-name="Hand">
+          <path id="Hand-4" data-name="Hand" d="M392.052 223.239 C392.052 222.478 391.198 221.988 390.932 221.322 C390.077 219.18 388.69 217.43 386.243 217.43 C383.684 217.43 382.278 219.144 381.504 221.443 C381.307 222.025 381.024 222.767 381.024 223.416 C381.024 224.045 380.817 225.431 380.966 225.988 C381.575 228.268 383.665 229.047 386.243 229.047 C389.451 229.047 392.052 226.447 392.052 223.239 Z" fill="#ffd256"/>
+          <path id="Finger-5" data-name="Finger" d="M392.808 222.779 C392.27 222.77 391.524 221.44 390.923 220.96 C389.723 220 388.757 219.613 388.75 220.199 C388.742 220.821 389.867 224.213 391.337 226.059 C391.946 226.823 392.954 227.187 393.426 227.194 C395.038 227.218 395.697 225.294 395.707 224.414 C395.718 223.535 394.42 222.803 392.808 222.779 Z" fill="#ffd256"/>
+          <ellipse id="Finger-6" data-name="Finger" cx="389.722" cy="226.541" rx="1.916" ry="4.393" fill="#ffd256"/>
+          <ellipse id="Finger-7" data-name="Finger" cx="386.256" cy="227.943" rx="1.917" ry="4.393" fill="#ffd256"/>
+          <path id="Finger-8" data-name="Finger" d="M384.707 227.34 C384.707 225.598 383.849 224.185 382.79 224.185 C381.963 224.185 381.177 224.596 380.908 225.804 C380.833 226.142 380.874 226.959 380.874 227.34 C380.874 229.083 381.732 230.495 382.79 230.495 C383.849 230.495 384.707 229.083 384.707 227.34 Z" fill="#ffd256"/>
+          <path id="Divider-4" data-name="Divider" d="M390.83 224.109 C390.83 224.109 390.685 222.846 390.406 222.95 C390.127 223.055 390.273 224.318 390.273 224.318 L390.381 224.608 C390.65 225.323 390.927 225.894 391.588 226.311 C391.588 226.311 391.84 226.469 391.998 226.217 C392.156 225.965 391.903 225.807 391.903 225.807 C391.358 225.471 391.158 224.984 390.939 224.399 L390.83 224.109 Z" fill="#000000"/>
+          <path id="Divider-5" data-name="Divider" d="M388.014 224.235 C388.014 224.235 388.08 223.94 387.749 223.881 C387.418 223.822 387.352 224.117 387.352 224.117 L387.307 224.392 C387.494 225.889 387.674 227.381 387.674 228.888 C387.674 228.888 387.674 229.188 388.011 229.188 C388.349 229.188 388.349 228.888 388.349 228.888 C388.349 227.359 388.167 225.845 387.977 224.325 L388.014 224.235 Z" fill="#000000"/>
+          <path id="Divider-6" data-name="Divider" d="M384.696 224.465 C384.696 224.465 384.696 224.163 384.359 224.163 C384.021 224.163 384.021 224.465 384.021 224.465 L384.023 224.572 C384.211 226.061 384.103 227.629 384.103 229.132 C384.103 229.132 384.103 229.434 384.441 229.434 C384.778 229.434 384.778 229.132 384.778 229.132 C384.778 227.606 384.88 226.018 384.694 224.505 L384.696 224.465 Z" fill="#000000"/>
+        </g>
+        <path id="Arm-2" data-name="Arm" d="M391.437 221.234 C391.437 221.234 391.437 213.839 391.437 208.737 C391.437 205.71 392.011 200.279 392.04 194.672 C392.064 189.977 391.437 185.657 391.437 181.468 C391.437 175.662 391.437 171.464 391.437 171.464 C391.437 171.464 389.399 171.464 388.312 171.464 C387.127 171.464 384.597 173.351 384.597 173.351 C384.597 173.351 381.236 176.925 381.236 181.312 C381.236 184.139 380.045 189.247 380.045 194.886 C380.045 199.579 381.31 204.314 381.532 208.733 C381.878 215.593 381.236 221.234 381.236 221.234 Z" fill="url(#linear-gradient-16)"/>
+      </g>
+    </g>
+    <g id="Jordan">
+      <path id="Cape-2" data-name="Cape" d="M213.284 167.868 C216.563 167.767 238.076 167.264 247.219 168.142 C250.178 168.426 251.332 173.188 251.332 173.188 L255.497 239.406 L239.454 224.017 L229.05 239.908 L216.075 225.938 L203.757 238.56 L208.128 173.656 C208.128 173.656 212.057 167.905 213.284 167.868 Z" fill="url(#New_Gradient_Swatch_1)"/>
+      <g id="Right_Leg-2" data-name="Right Leg">
+        <ellipse id="Shoe-3" data-name="Shoe" cx="250.589" cy="273.884" rx="13.567" ry="6.919" fill="url(#New_Gradient_Swatch_1-2)"/>
+        <path id="Leg-3" data-name="Leg" d="M248.077 267.755 C245.842 268.567 237.457 271.719 237.457 271.719 C237.457 271.719 236.792 263.102 236.792 262.4 C236.792 261.059 235.258 256.465 234.964 250.959 C234.228 237.137 235.728 215.763 235.728 215.763 L248.012 215.231 C248.012 215.231 249.235 267.335 248.077 267.755 Z" fill="#000000"/>
+      </g>
+      <g id="Left_Leg-2" data-name="Left Leg">
+        <ellipse id="Shoe-4" data-name="Shoe" cx="230.647" cy="273.884" rx="13.567" ry="6.919" fill="url(#New_Gradient_Swatch_1-3)"/>
+        <path id="Leg-4" data-name="Leg" d="M228.136 267.755 C225.901 268.567 217.515 271.719 217.515 271.719 C217.515 271.719 216.851 263.102 216.851 262.4 C216.851 261.059 215.316 256.465 215.023 250.959 C214.287 237.137 215.787 215.763 215.787 215.763 L228.071 215.231 C228.071 215.231 229.293 267.335 228.136 267.755 Z" fill="#000000"/>
+      </g>
+      <rect id="Pants_Top-2" data-name="Pants Top" x="217.693" y="215.486" width="29.508" height="14.924" fill="#000000"/>
+      <path id="Neck-2" data-name="Neck" d="M223.972 166.607 C223.972 166.166 224.397 165.625 224.827 165.064 C224.955 164.896 222.668 162.593 222.824 162.424 C224.171 160.966 228.927 161.674 231.391 161.674 C234.581 161.674 239.977 160.745 240.657 162.122 C240.767 162.345 238.098 164.532 238.098 164.769 C238.098 164.998 239.882 166.941 239.78 167.155 C239.119 168.545 234.599 167.865 231.391 167.865 C227.687 167.865 223.972 168.317 223.972 166.607 Z" fill="url(#linear-gradient-17)"/>
+      <g id="Face-9" data-name="Face">
+        <path id="Right_Ear-5" data-name="Right Ear" d="M256.07 148.236 C256.07 151.99 250.121 155.528 247.596 155.528 C245.07 155.528 246.924 151.99 246.924 148.236 C246.924 144.481 248.971 141.438 251.497 141.438 C253.366 141.438 255.234 141.276 255.944 143.664 C256.193 144.503 256.07 147.259 256.07 148.236 Z" fill="#f3c853"/>
+        <path id="Left_Ear-5" data-name="Left Ear" d="M206.787 147.557 C206.787 146.581 206.664 143.824 206.913 142.985 C207.623 140.597 209.491 140.759 211.36 140.759 C213.885 140.759 215.933 143.803 215.933 147.557 C215.933 151.311 218.309 154.98 215.784 154.98 C213.258 154.98 206.787 151.311 206.787 147.557 Z" fill="#f3c853"/>
+        <path id="Face-10" data-name="Face" d="M211.746 145.573 C211.746 134.754 220.516 125.983 231.335 125.983 C242.154 125.983 250.925 134.754 250.925 145.573 C250.925 150.769 248.688 155.057 245.387 158.933 C241.066 162.827 231.634 165.953 231.634 165.953 C231.634 165.953 222.118 162.725 217.343 159.355 C214.108 155.497 211.746 150.71 211.746 145.573 Z" fill="url(#linear-gradient-18)"/>
+        <g id="Left_Eye-5" data-name="Left Eye">
+          <ellipse id="Outer_White-9" data-name="Outer White" cx="226.764" cy="142.59" rx="4.571" ry="7.379" fill="#ffffff"/>
+          <ellipse id="Color-9" data-name="Color" cx="227.602" cy="142.85" rx="2.728" ry="5.689" fill="#341c00"/>
+          <ellipse id="Black-9" data-name="Black" cx="228.367" cy="142.917" rx="1.63" ry="3.76" fill="#000000"/>
+          <circle id="Inner_White-9" data-name="Inner White" cx="228.334" cy="141.087" r="0.678" fill="#ffffff"/>
+        </g>
+        <g id="Right_Eye-5" data-name="Right Eye">
+          <ellipse id="Outer_White-10" data-name="Outer White" cx="236.398" cy="142.576" rx="4.571" ry="7.379" fill="#ffffff"/>
+          <ellipse id="Color-10" data-name="Color" cx="237.236" cy="142.835" rx="2.728" ry="5.689" fill="#341c00"/>
+          <ellipse id="Black-10" data-name="Black" cx="238.001" cy="142.902" rx="1.63" ry="3.76" fill="#000000"/>
+          <circle id="Inner_White-10" data-name="Inner White" cx="237.968" cy="141.072" r="0.678" fill="#ffffff"/>
+        </g>
+        <ellipse id="Mouth_Open-5" data-name="Mouth Open" cx="223.48" cy="155.947" rx="5.154" ry="4.387" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <line id="Mouth-5" data-name="Mouth" x1="222.297" y1="157.854" x2="240.576" y2="157.854" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10" display="none"/>
+        <polyline id="Nose-5" data-name="Nose" points="231.661,145.745 234.855,153.198 231.594,153.198" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+        <path id="Left_Eyebrow-5" data-name="Left Eyebrow" d="M221.412 134.16 C221.412 134.16 224.341 133.261 225.703 133.184 C227.13 133.102 229.787 133.681 229.787 133.681" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+        <path id="Right_Eyebrow-5" data-name="Right Eyebrow" d="M232.724 134.16 C232.724 134.16 235.654 133.261 237.015 133.184 C238.442 133.102 241.099 133.681 241.099 133.681" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+        <path id="Hair-5" data-name="Hair" d="M211.812 142.129 C211.812 142.129 212.985 126.655 214.19 121.148 C215.054 117.193 229.879 110.522 229.879 110.522 C229.879 110.522 228.285 114.275 228.024 116.317 C227.761 118.384 226.361 121.525 226.361 121.525 C226.361 121.525 228.869 117.235 230.718 115.072 C232.305 113.215 241.307 110.245 241.307 110.245 C241.307 110.245 237.175 115.101 237.555 117.361 C237.89 119.358 237.156 122.6 237.156 122.6 C237.156 122.6 238.431 116.774 240.532 114.79 C242.4 113.027 253.092 110.579 253.092 110.579 C253.092 110.579 249.709 118.078 248.505 122.506 C247.366 126.693 252.04 144.032 252.04 144.032 C252.04 144.032 249.104 137.881 245.135 133.924 C241.118 129.92 236.049 128.108 232.693 127.949 C228.8 127.765 222.414 128.796 217.732 132.851 C214.313 135.812 211.812 142.129 211.812 142.129 Z" fill="url(#linear-gradient-19)" stroke="url(#linear-gradient-19)" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+      </g>
+      <rect id="Shirt-2" data-name="Shirt" x="217.037" y="167.108" width="29.065" height="48.5" fill="url(#New_Gradient_Swatch_1-4)"/>
+      <g id="Left_Arm-2" data-name="Left Arm">
+        <g id="Hand-5" data-name="Hand">
+          <path id="Hand-6" data-name="Hand" d="M218.148 219.181 C218.148 222.405 215.534 225.019 212.31 225.019 C209.718 225.019 207.617 224.236 207.005 221.944 C206.856 221.385 207.064 219.991 207.064 219.359 C207.064 218.707 207.349 217.961 207.546 217.375 C208.324 215.065 209.737 213.342 212.31 213.342 C214.77 213.342 216.163 215.101 217.023 217.254 C217.29 217.923 218.148 218.416 218.148 219.181 Z" fill="#ffd256"/>
+          <path id="Finger-9" data-name="Finger" d="M218.909 218.718 C220.529 218.742 221.834 219.479 221.823 220.363 C221.812 221.246 221.15 223.181 219.53 223.157 C219.055 223.149 218.042 222.784 217.43 222.015 C215.952 220.16 214.822 216.75 214.829 216.125 C214.836 215.536 215.808 215.926 217.014 216.89 C217.618 217.373 218.368 218.71 218.909 218.718 Z" fill="#ffd256"/>
+          <ellipse id="Finger-10" data-name="Finger" cx="215.807" cy="222.5" rx="1.926" ry="4.416" fill="#ffd256"/>
+          <ellipse id="Finger-11" data-name="Finger" cx="212.323" cy="223.91" rx="1.926" ry="4.416" fill="#ffd256"/>
+          <path id="Divider-7" data-name="Divider" d="M216.92 220.056 L217.03 220.347 C217.25 220.935 217.451 221.424 217.999 221.762 C217.999 221.762 218.253 221.921 218.094 222.174 C217.936 222.428 217.682 222.269 217.682 222.269 C217.018 221.849 216.739 221.275 216.47 220.557 L216.36 220.266 C216.36 220.266 216.214 218.996 216.494 218.891 C216.774 218.786 216.92 220.056 216.92 220.056 Z" fill="#000000"/>
+          <path id="Finger-12" data-name="Finger" d="M210.765 223.304 C210.765 225.055 209.903 226.475 208.839 226.475 C207.775 226.475 206.913 225.055 206.913 223.304 C206.913 222.92 206.871 222.099 206.947 221.759 C207.217 220.545 208.008 220.132 208.839 220.132 C209.903 220.132 210.765 221.552 210.765 223.304 Z" fill="#ffd256"/>
+          <path id="Divider-8" data-name="Divider" d="M214.09 220.182 L214.053 220.273 C214.244 221.801 214.426 223.322 214.426 224.859 C214.426 224.859 214.426 225.161 214.087 225.161 C213.748 225.161 213.748 224.859 213.748 224.859 C213.748 223.344 213.567 221.845 213.379 220.34 L213.424 220.063 C213.424 220.063 213.491 219.767 213.824 219.827 C214.156 219.886 214.09 220.182 214.09 220.182 Z" fill="#000000"/>
+          <path id="Divider-9" data-name="Divider" d="M210.755 220.413 L210.753 220.454 C210.939 221.974 210.837 223.57 210.837 225.105 C210.837 225.105 210.837 225.408 210.498 225.408 C210.159 225.408 210.159 225.105 210.159 225.105 C210.159 223.594 210.267 222.017 210.079 220.521 L210.077 220.413 C210.077 220.413 210.077 220.11 210.416 220.11 C210.755 220.11 210.755 220.413 210.755 220.413 Z" fill="#000000"/>
+        </g>
+        <path id="Arm-3" data-name="Arm" d="M207.276 217.166 C207.276 217.166 207.922 211.496 207.575 204.6 C207.351 200.158 206.08 195.398 206.08 190.681 C206.08 185.013 207.276 179.879 207.276 177.037 C207.276 172.627 210.655 169.034 210.655 169.034 C210.655 169.034 213.198 167.138 214.389 167.138 C215.482 167.138 217.531 167.138 217.531 167.138 C217.531 167.138 217.531 171.358 217.531 177.194 C217.531 181.405 218.161 185.747 218.136 190.466 C218.107 196.102 217.531 201.562 217.531 204.604 C217.531 209.732 217.531 217.166 217.531 217.166 Z" fill="url(#New_Gradient_Swatch_2)"/>
+      </g>
+      <g id="Right_Arm-2" data-name="Right Arm">
+        <g id="Hand-7" data-name="Hand">
+          <path id="Hand-8" data-name="Hand" d="M244.561 219.072 C244.561 218.307 245.42 217.814 245.687 217.145 C246.547 214.992 247.94 213.233 250.4 213.233 C252.973 213.233 254.386 214.956 255.164 217.267 C255.361 217.852 255.646 218.598 255.646 219.25 C255.646 219.883 255.854 221.276 255.704 221.835 C255.092 224.128 252.992 224.911 250.4 224.911 C247.175 224.911 244.561 222.297 244.561 219.072 Z" fill="#ffd256"/>
+          <path id="Finger-13" data-name="Finger" d="M243.801 218.609 C244.341 218.601 245.092 217.264 245.695 216.781 C246.901 215.817 247.873 215.427 247.88 216.017 C247.888 216.642 246.757 220.051 245.28 221.907 C244.668 222.675 243.654 223.041 243.18 223.048 C241.559 223.072 240.897 221.138 240.887 220.254 C240.876 219.37 242.181 218.634 243.801 218.609 Z" fill="#ffd256"/>
+          <ellipse id="Finger-14" data-name="Finger" cx="246.903" cy="222.391" rx="1.926" ry="4.416" fill="#ffd256"/>
+          <ellipse id="Finger-15" data-name="Finger" cx="250.387" cy="223.801" rx="1.926" ry="4.416" fill="#ffd256"/>
+          <path id="Finger-16" data-name="Finger" d="M251.944 223.195 C251.944 221.443 252.807 220.024 253.871 220.024 C254.702 220.024 255.493 220.436 255.763 221.65 C255.838 221.99 255.797 222.811 255.797 223.195 C255.797 224.946 254.935 226.366 253.871 226.366 C252.807 226.366 251.944 224.946 251.944 223.195 Z" fill="#ffd256"/>
+          <path id="Divider-10" data-name="Divider" d="M245.789 219.947 C245.789 219.947 245.935 218.677 246.216 218.782 C246.496 218.887 246.349 220.157 246.349 220.157 L246.24 220.448 C245.97 221.167 245.692 221.741 245.027 222.161 C245.027 222.161 244.774 222.319 244.615 222.066 C244.457 221.812 244.71 221.653 244.71 221.653 C245.258 221.316 245.46 220.826 245.68 220.238 L245.789 219.947 Z" fill="#000000"/>
+          <path id="Divider-11" data-name="Divider" d="M248.62 220.073 C248.62 220.073 248.554 219.777 248.886 219.718 C249.219 219.659 249.285 219.955 249.285 219.955 L249.331 220.231 C249.143 221.736 248.962 223.236 248.962 224.75 C248.962 224.75 248.962 225.052 248.623 225.052 C248.283 225.052 248.283 224.75 248.283 224.75 C248.283 223.213 248.466 221.692 248.657 220.164 L248.62 220.073 Z" fill="#000000"/>
+          <path id="Divider-12" data-name="Divider" d="M251.955 220.305 C251.955 220.305 251.955 220.001 252.294 220.001 C252.633 220.001 252.633 220.305 252.633 220.305 L252.631 220.412 C252.443 221.908 252.551 223.485 252.551 224.996 C252.551 224.996 252.551 225.3 252.212 225.3 C251.872 225.3 251.872 224.996 251.872 224.996 C251.872 223.462 251.77 221.866 251.957 220.345 L251.955 220.305 Z" fill="#000000"/>
+        </g>
+        <path id="Arm-4" data-name="Arm" d="M245.179 217.057 C245.179 217.057 245.179 209.624 245.179 204.495 C245.179 201.453 244.603 195.993 244.573 190.357 C244.549 185.638 245.179 181.296 245.179 177.085 C245.179 171.249 245.179 167.029 245.179 167.029 C245.179 167.029 247.228 167.029 248.32 167.029 C249.511 167.029 252.055 168.926 252.055 168.926 C252.055 168.926 255.433 172.519 255.433 176.928 C255.433 179.77 256.63 184.904 256.63 190.573 C256.63 195.289 255.358 200.049 255.135 204.492 C254.788 211.387 255.433 217.057 255.433 217.057 Z" fill="url(#New_Gradient_Swatch_2-2)"/>
+      </g>
+    </g>
+  </g>
+</svg>

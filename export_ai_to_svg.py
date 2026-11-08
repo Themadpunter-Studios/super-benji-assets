@@ -1,4 +1,4 @@
-"""Export every .ai file under src to svg, preserving the folder structure."""
+"""Export every .ai file under src to svg and png, preserving the folder structure."""
 
 from __future__ import annotations
 
@@ -15,7 +15,7 @@ ROOT = Path(__file__).resolve().parent
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Recursively export Illustrator files from src to svg with VectorCraft."
+        description="Recursively export Illustrator files from src to svg and png with VectorCraft."
     )
     parser.add_argument(
         "--source",
@@ -27,7 +27,13 @@ def parse_args() -> argparse.Namespace:
         "--destination",
         type=Path,
         default=ROOT / "svg",
-        help="destination directory (default: svg beside this script)",
+        help="SVG destination directory (default: svg beside this script)",
+    )
+    parser.add_argument(
+        "--png-destination",
+        type=Path,
+        default=ROOT / "png",
+        help="PNG destination directory (default: png beside this script)",
     )
     parser.add_argument(
         "--vectorcraft-cli",
@@ -66,7 +72,10 @@ def find_vectorcraft_cli(configured_path: str | None) -> str | None:
 def main() -> int:
     args = parse_args()
     source = args.source.resolve()
-    destination = args.destination.resolve()
+    destinations = {
+        ".svg": args.destination.resolve(),
+        ".png": args.png_destination.resolve(),
+    }
 
     vectorcraft_cli = find_vectorcraft_cli(args.vectorcraft_cli)
     if vectorcraft_cli is None:
@@ -90,32 +99,37 @@ def main() -> int:
         return 1
 
     failures = 0
+    exports = len(files) * len(destinations)
     for input_path in files:
-        output_path = destination / input_path.relative_to(source).with_suffix(".svg")
-        try:
-            output_path.parent.mkdir(parents=True, exist_ok=True)
-            result = subprocess.run(
-                [vectorcraft_cli, "convert", str(input_path), str(output_path)],
-                check=False,
-                capture_output=True,
-                text=True,
-            )
-        except OSError as error:
-            print(f"Failed to run VectorCraft for {input_path}: {error}", file=sys.stderr)
-            failures += 1
-            continue
+        for suffix, destination in destinations.items():
+            output_path = destination / input_path.relative_to(source).with_suffix(suffix)
+            try:
+                output_path.parent.mkdir(parents=True, exist_ok=True)
+                result = subprocess.run(
+                    [vectorcraft_cli, "convert", str(input_path), str(output_path)],
+                    check=False,
+                    capture_output=True,
+                    text=True,
+                )
+            except OSError as error:
+                print(f"Failed to run VectorCraft for {input_path}: {error}", file=sys.stderr)
+                failures += 1
+                continue
 
-        if result.returncode:
-            details = result.stderr.strip() or result.stdout.strip()
-            print(f"Export failed: {input_path}", file=sys.stderr)
-            if details:
-                print(details, file=sys.stderr)
-            failures += 1
-        else:
-            print(f"Exported {input_path.relative_to(source)} -> {output_path.relative_to(destination)}")
+            if result.returncode:
+                details = result.stderr.strip() or result.stdout.strip()
+                print(f"Export failed: {input_path} -> {output_path}", file=sys.stderr)
+                if details:
+                    print(details, file=sys.stderr)
+                failures += 1
+            else:
+                print(
+                    f"Exported {input_path.relative_to(source)} -> "
+                    f"{output_path.relative_to(destination)} ({suffix[1:]})"
+                )
 
-    succeeded = len(files) - failures
-    print(f"Export complete: {succeeded}/{len(files)} succeeded.")
+    succeeded = exports - failures
+    print(f"Export complete: {succeeded}/{exports} exports succeeded.")
     return 1 if failures else 0
 
 
