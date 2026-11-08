@@ -80,10 +80,10 @@
         <path id="Left_Eyebrow" data-name="Left Eyebrow" d="M17.564 9.243 C17.564 9.243 20.478 8.35 21.833 8.273 C23.252 8.191 25.896 8.767 25.896 8.767" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
         <path id="Right_Eyebrow" data-name="Right Eyebrow" d="M28.818 9.243 C28.818 9.243 31.732 8.35 33.087 8.273 C34.506 8.191 37.15 8.767 37.15 8.767" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
         <g id="Glasses" display="none">
-          <line x1="8.747" y1="16.825" x2="17.945" y2="16.825" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
-          <line x1="46.816" y1="17.736" x2="38.208" y2="17.842" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
-          <ellipse cx="23.132" cy="18.295" rx="4.687" ry="7.514" fill="none" stroke="#000000" stroke-width="1.25" stroke-miterlimit="10"/>
-          <ellipse cx="33.101" cy="18.592" rx="4.687" ry="7.514" fill="none" stroke="#000000" stroke-width="1.25" stroke-miterlimit="10"/>
+          <line x1="8.521" y1="15.365" x2="17.719" y2="16.256" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+          <line x1="46.591" y1="16.039" x2="37.982" y2="17.273" fill="none" stroke="#000000" stroke-width="1.25" stroke-linecap="round" stroke-miterlimit="10"/>
+          <ellipse cx="22.907" cy="17.726" rx="4.687" ry="7.514" fill="none" stroke="#000000" stroke-width="1.25" stroke-miterlimit="10"/>
+          <ellipse cx="32.876" cy="18.023" rx="4.687" ry="7.514" fill="none" stroke="#000000" stroke-width="1.25" stroke-miterlimit="10"/>
         </g>
       </g>
       <rect id="Shirt" x="13.211" y="42.022" width="28.916" height="48.25" fill="url(#linear-gradient-8)"/>

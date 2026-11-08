@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128.55" height="195.903" viewBox="0 0 128.55 195.903">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110.028" height="167.568" viewBox="0 0 110.028 167.568">
   <defs>
-    <linearGradient id="linear-gradient-1" x1="73.888" y1="0" x2="73.888" y2="166.33" gradientUnits="userSpaceOnUse">
+    <linearGradient id="linear-gradient-1" x1="62.972" y1="0" x2="62.972" y2="143.184" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#ffff00"/>
       <stop offset="1" stop-color="#a1a300"/>
     </linearGradient>
@@ -10,23 +10,23 @@
   <g id="Layer_1" data-name="Layer 1">
     <g id="Dr._Banana" data-name="Dr. Banana">
       <g id="Left_Arm" data-name="Left Arm">
-        <circle id="Hand" cx="7.946" cy="124.958" r="4.97" fill="#000000" stroke="#000000" stroke-width="3" stroke-miterlimit="10"/>
-        <line id="Arm" x1="27.628" y1="109.053" x2="7.548" y2="125.355" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+        <circle id="Hand" cx="6.207" cy="107.569" r="4.279" fill="#000000" stroke="#000000" stroke-width="3" stroke-miterlimit="10"/>
+        <line id="Arm" x1="23.15" y1="93.878" x2="5.865" y2="107.911" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
       </g>
       <g id="Right_Arm" data-name="Right Arm">
-        <circle id="Hand-2" data-name="Hand" cx="105.562" cy="125.952" r="4.97" fill="#000000" stroke="#000000" stroke-width="3" stroke-miterlimit="10"/>
-        <line id="Arm-2" data-name="Arm" x1="85.88" y1="110.047" x2="105.96" y2="126.35" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+        <circle id="Hand-2" data-name="Hand" cx="90.239" cy="108.425" r="4.279" fill="#000000" stroke="#000000" stroke-width="3" stroke-miterlimit="10"/>
+        <line id="Arm-2" data-name="Arm" x1="73.296" y1="94.733" x2="90.581" y2="108.767" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
       </g>
-      <polyline id="Right_Leg" data-name="Right Leg" points="96.271,192.927 91.019,192.927 91.2,149.458" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
-      <polyline id="Left_Leg" data-name="Left Leg" points="57.693,192.927 52.44,192.927 52.621,148.915" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
-      <path id="Body" d="M87.321 80.126 C87.321 92.61 87.648 120.222 91.016 134.972 C91.562 137.363 100.381 147.902 105.915 154.588 C110.338 159.932 108.167 163.712 107.175 164.8 C101.146 171.416 68.376 154.432 62.47 154.432 C52.744 154.432 34.292 133.88 24.885 114.031 C18.892 101.386 19.229 90.504 19.229 80.623 C19.229 65.971 27.994 35.534 39.309 18.715 C47.602 6.388 58.125 7.116 64.458 4.827 C72.708 1.844 124.555 -6.201 128.285 8.874 C129.491 13.749 126.586 20.525 119.441 25.801 C114.511 29.441 105.48 30.805 102.87 36.699 C96.939 50.092 87.321 73.857 87.321 80.126 Z" fill="url(#linear-gradient-1)"/>
+      <polyline id="Right_Leg" data-name="Right Leg" points="82.241,166.08 77.719,166.08 77.875,128.66" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+      <polyline id="Left_Leg" data-name="Left Leg" points="49.031,166.08 44.509,166.08 44.665,128.192" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+      <path id="Body" d="M74.536 68.976 C74.536 79.722 74.818 103.493 77.717 116.19 C78.187 118.248 85.779 127.32 90.543 133.076 C94.351 137.676 92.482 140.93 91.627 141.867 C86.437 147.562 58.227 132.941 53.143 132.941 C44.771 132.941 28.887 115.249 20.789 98.163 C15.63 87.278 15.919 77.91 15.919 69.404 C15.919 56.791 23.465 30.589 33.205 16.11 C40.344 5.499 49.403 6.125 54.855 4.155 C61.957 1.588 106.589 -5.338 109.8 7.639 C110.838 11.836 108.337 17.669 102.187 22.21 C97.943 25.344 90.168 26.518 87.922 31.592 C82.816 43.122 74.536 63.579 74.536 68.976 Z" fill="url(#linear-gradient-1)"/>
       <g id="Face">
-        <line id="Eye_R" data-name="Eye R" x1="77.761" y1="82.118" x2="77.761" y2="58.935" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
-        <line id="Eye_L" data-name="Eye L" x1="68.632" y1="59.514" x2="68.632" y2="82.698" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
-        <line id="Eyebrow_R" data-name="Eyebrow R" x1="84.426" y1="57.196" x2="75.442" y2="58.79" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
-        <line id="Eyebrow_L" data-name="Eyebrow L" x1="61.532" y1="57.196" x2="70.516" y2="58.79" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
-        <path id="Mouth" d="M81.818 99.216 C81.818 99.216 63.804 99.216 55.592 99.216 C48.318 99.216 41.392 92.695 41.392 92.695" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
-        <circle id="Mouth_Open" data-name="Mouth Open" cx="46.437" cy="105.682" r="12.517" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" display="none"/>
+        <line id="Eye_R" data-name="Eye R" x1="66.306" y1="70.691" x2="66.306" y2="50.734" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+        <line id="Eye_L" data-name="Eye L" x1="58.448" y1="51.232" x2="58.448" y2="71.19" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+        <line id="Eyebrow_R" data-name="Eyebrow R" x1="72.044" y1="49.237" x2="64.311" y2="50.609" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+        <line id="Eyebrow_L" data-name="Eyebrow L" x1="52.336" y1="49.237" x2="60.07" y2="50.609" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+        <path id="Mouth" d="M69.799 85.409 C69.799 85.409 54.292 85.409 47.222 85.409 C40.96 85.409 34.998 79.796 34.998 79.796" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+        <circle id="Mouth_Open" data-name="Mouth Open" cx="39.342" cy="90.975" r="10.775" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" display="none"/>
       </g>
     </g>
   </g>
