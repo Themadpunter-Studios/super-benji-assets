@@ -7,6 +7,12 @@ Assets for the Super Benji series that can be used to make Super Benji related m
 Open whatever files you need in a vector graphics program. Adobe Illustrator source files can be found in src/ and .svg files
 can be found in svg/. SVG files are created automatically from the .AI files.
 
+## Making New Human Characters
+
+Most humans have two main colors for their scheme: A main gradient and a dark gradient. The main gradient is used in the body, cape,
+and both shoes. The dark gradient is used in both arms. The main gradient is usually a gradient between two similar colors, and the
+dark gradient is a version of that gradient with the lower color darker. Characters also have different eye colors and hair styles.
+
 ## Super Benji Assets.sb3
 
 This Scratch project file contains most of the assets used in the Super Benji Show and movies. Most of the assets are updated up to the
