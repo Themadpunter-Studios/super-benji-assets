@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="204.955" height="161.738" viewBox="0 0 204.955 161.738">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="102.477" y1="0" x2="102.477" y2="161.738" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00fbff"/>
+      <stop offset="1" stop-color="#008cbf"/>
+    </linearGradient>
+  </defs>
+  <title>Saber.ai</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <g id="Saber">
+      <polygon id="Body" points="0,48.812 204.955,54.733 27.317,158.343 106.856,0 163.154,161.738" fill="url(#linear-gradient-1)"/>
+      <line id="Eye_L" data-name="Eye L" x1="100.98" y1="29.297" x2="100.154" y2="57.888" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10"/>
+      <line id="Eye_R" data-name="Eye R" x1="113.134" y1="60.053" x2="113.96" y2="31.462" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10"/>
+      <line id="Mouth" x1="121.38" y1="77.014" x2="79.716" y2="75.81" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    </g>
+  </g>
+</svg>
